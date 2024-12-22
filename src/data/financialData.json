@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "date": "2024-12-01",
+      "description": "Salary",
+      "category": "Income",
+      "amount": 5000,
+      "type": "credit",
+      "balance": 5000
+    },
+    {
+      "id": 2,
+      "date": "2024-12-02",
+      "description": "Groceries",
+      "category": "Expense",
+      "amount": -200,
+      "type": "debit",
+      "balance": 4800
+    },
+    {
+      "id": 3,
+      "date": "2024-12-03",
+      "description": "Electricity Bill",
+      "category": "Expense",
+      "amount": -150,
+      "type": "debit",
+      "balance": 4650
+    },
+    {
+      "id": 4,
+      "date": "2024-12-04",
+      "description": "Freelance Project",
+      "category": "Income",
+      "amount": 1200,
+      "type": "credit",
+      "balance": 5850
+    },
+    {
+      "id": 5,
+      "date": "2024-12-05",
+      "description": "Gym Membership",
+      "category": "Expense",
+      "amount": -50,
+      "type": "debit",
+      "balance": 5800
+    }
+]
+  
